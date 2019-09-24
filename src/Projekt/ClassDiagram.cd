@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bmp::Bitmap">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAQAAAAAAABAAgACACAAAAAAACAAQAAAAAAAAk=</HashCode>
+      <FileName>Bitmap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bmp::BitmapFile">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAABAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BitmapFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bmp::BitmapInfo">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAgAAAQAQBAAAAAAAAgAAgCAAAgAQAAAACA=</HashCode>
+      <FileName>BitmapInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAQAgAAAABAAAAAAEAAAAUABQAAAABAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectFactory">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>ObjectFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owca">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAACAAABAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Owca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pasterz">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAgAAABAEAAAAAAnAAAAACAAAEAAA=</HashCode>
+      <FileName>Pasterz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulation">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAACAAAAUAAAAAEAAAAAAAAABABAAAAAA=</HashCode>
+      <FileName>Simulation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StadoOwiec">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>StadoOwiec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserArguments">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABIAAAAAAAQAAAAAAAAAABMlggQAAAAAAA=</HashCode>
+      <FileName>UserArguments.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZoorganizowanaGrupaPasterzy">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZoorganizowanaGrupaPasterzy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
